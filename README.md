@@ -22,7 +22,7 @@ The project focuses on clean UI, proper logic handling, and user interaction.
 - Improving code readability and structure
 
 ## Live Demo
-https://Zadanie.html
+https://Zadanie.pl
 
 ## Screenshots
 ![Calculator Screenshot](screenshot.png)
