@@ -22,7 +22,7 @@ The project focuses on clean UI, proper logic handling, and user interaction.
 - Improving code readability and structure
 
 ## Live Demo
-https://twoj-link.netlify.app
+https://Zadanie.html
 
 ## Screenshots
 ![Calculator Screenshot](screenshot.png)
